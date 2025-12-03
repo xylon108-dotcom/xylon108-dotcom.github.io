@@ -1,10 +1,9 @@
-# Xylon Hagad
-## Xylon Hagad's Portfolio
+# Xylon Hagad's Portfolio
 
-My name is Xylon Hagad. I am a Computer Science concentrated in Cybersecurity Major at CSUF and I plan on graduting in 2029.
+My name is Xylon Hagad. I am a Computer Science concentrated in Cyber security Major at CSUF and I plan on graduting in 2029.
 
 
-### Favorite CPSC 120L Labs
+## Favorite CPSC 120L Labs
 
 * Lab 6 Part 1
 
