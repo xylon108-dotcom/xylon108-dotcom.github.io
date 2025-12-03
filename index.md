@@ -17,6 +17,6 @@ My Github page is https://github.com/xylon108-dotcom
 
     This lab was my second favorite because this lab gave my partner and I a challenge. This lab was about Olympic Judge averages and it was very interesting. What we had to do was create a function that shows us the average mean of the elements of a vector except for the minimum and maximum. This lab was challenging because we used const double. Which for me was very hard to understand but once my partner talked me through it I slowly understood it. This lab helped me understand not only const but also understand const double and how to apply them to an algorithm.
 
-* Lab 7, Part 
+* Lab 7
 
     This lab was probably the most challenging one out of all the labs I've been through. However this is my third favorite lab because I learned so much from it. What we had to do for this lab was make a function that tells you that your either allowed to park here or your not allowed to park here according to the sign they posted on the instructions of the lab. This was very challenging for me because we used boolean code. Once my partner figured out how to use bool he walked me through how he used it. In order to use bool for this lab we had to first write bool then put if the parking condition was either true or false and once he told me that it clicked instantly.
